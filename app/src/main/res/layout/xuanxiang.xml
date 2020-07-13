@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <CheckBox
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Print Test"/>
+    <CheckBox
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Qrcode"/>
+    <CheckBox
+        android:id="@+id/btn3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Magnetic Card"/>
+    <CheckBox
+        android:id="@+id/btn4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rfid Test"/>
+    <CheckBox
+        android:id="@+id/btn5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ID Card Test"/>
+    <CheckBox
+        android:id="@+id/btn6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="IC Card Test"/>
+    <CheckBox
+        android:id="@+id/btn7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NFC Test"/>
+    <CheckBox
+        android:id="@+id/btn8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PSAM Test"/>
+   <!-- <CheckBox
+        android:id="@+id/btn9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HDMI Test"/>-->
+    <CheckBox
+        android:id="@+id/btn10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MoneyBox Test"/>
+    <CheckBox
+        android:id="@+id/btn11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="IR Test"/>
+    <CheckBox
+        android:id="@+id/btn12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LED Test"/>
+    <CheckBox
+        android:id="@+id/btn13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Laser Test"/>
+
+</LinearLayout>
